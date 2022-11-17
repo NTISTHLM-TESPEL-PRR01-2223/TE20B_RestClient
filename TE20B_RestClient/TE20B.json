@@ -1,0 +1,20 @@
+{
+  "name": "Micke",
+  "hp": 300,
+  "is_dead": false,
+  "weapon" : {
+    "name": "Sword",
+    "damage": 150
+  },
+  "inventory": ["strumpor", "sked", "slips"],
+  "weapons" : [
+    {
+      "name": "Axe",
+      "damage": 79
+    },
+    {
+      "name": "Bazooka",
+      "damage": 9001
+    }
+  ]
+}
